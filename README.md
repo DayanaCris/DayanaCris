@@ -1,7 +1,7 @@
 ### Olá! Sou a Dayana 👋
 
 - 💬 Sobre: ...
-- 🔭 Hoje trabalho no HUB de Inteligência Artificial do SESI PR
+- 🔭 Hoje trabalho no HUB de Inteligência Artificial do SENAI PR
 - 🌱 Estudando Machine Lerning 
 - 😄 Pronomes: ela/dela
 
