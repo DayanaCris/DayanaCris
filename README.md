@@ -1,6 +1,7 @@
 ### Olá! Sou a Dayana 👋
 
-- 💬 Sobre: ...
+- 💬 Sobre: Possui Doutorado em Modelagem Computacional (LNCC), graduada em Licenciatura em Matemática (UFLA) e mestra em Ciências em Matemática (UNIFEI). Tem experiência na área de Matemática pura, aplicada e Controle de Sistemas Dinâmicos, com ênfase em sistemas lineares com saltos Markovianos, controle robusto, cadeias de Markov.
+
 - 🔭 Hoje sou residente no HUB de Inteligência Artificial do SENAI PR
 - 🌱 Estudando Machine Lerning 
 - 😄 Pronomes: ela/dela
